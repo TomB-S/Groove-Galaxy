@@ -1,0 +1,20 @@
+.main {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: black;
+    margin: 40px;
+  }
+
+  .productCard {
+    background-color: red;
+    width: 40vw;
+  }
+
+  .textDiv {
+    width: 40vw;
+   
+  }
